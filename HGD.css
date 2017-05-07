@@ -1,0 +1,26 @@
+h1{
+	text-align:center;
+	font-family:Eras Bold ITC;
+	font-size: 50px;
+}
+p{
+	font-family:Eras Bold ITC;
+	margin: 0px 200px 0px 200px;
+	font-size: 20px;
+}
+#nav{
+	background-color:red;
+	text-align:center;
+	font-family:Eras Bold ITC;
+	padding:20px;
+	text-decoration:none;
+}
+a{
+	padding:20px;
+	text-decoration:none;
+	color:black;
+	font-family:Eras Bold ITC;
+}
+#sticks{
+	text-decoration:underline;
+}
